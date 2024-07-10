@@ -107,7 +107,7 @@ public:
 
         cout << "Masukkan Uang Semester Pertama: ";
         cin >> uangSemesterPertama;
-        setUangSemesterPertama(uangSemesterPertama);
+        setUangSemesterPertama(uangSemesterPertama); 
     }
 };
 
